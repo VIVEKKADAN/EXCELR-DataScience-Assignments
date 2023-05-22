@@ -16,3 +16,4 @@
 ### [SVM Salary_Data](https://github.com/VIVEKKADAN/Assignment-SVM-Salary_Data.git)
 ### [SVM ForestFires_Data](https://github.com/VIVEKKADAN/Assignment-SVM-forestfires_Data.git)
 ### [Forcasting Cocacola_Data](https://github.com/VIVEKKADAN/Assignment-Forcasting-Cocacola_Data.git)
+### [Forcasting Airlines_Data](https://github.com/VIVEKKADAN/Assignment-Forcasting-Airlines_Data.git)
