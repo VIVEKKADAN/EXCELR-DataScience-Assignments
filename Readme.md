@@ -8,3 +8,5 @@
 ### [Association rule Book Data](https://github.com/VIVEKKADAN/Association-assignment-Bookdata.git)
 ### [Association rule Movie Data](https://github.com/VIVEKKADAN/Association-assignment-Movie_Data.git)
 ### [Recomndation system Book_data](https://github.com/VIVEKKADAN/Assignment-Recomendation-System-Book-Data.git)
+### [KNN Zoo DATA](https://github.com/VIVEKKADAN/Assignment-KNN-Zoo-Data.git)
+### [KNN Glass DATA](https://github.com/VIVEKKADAN/KNN-Glass-Data.git)
