@@ -1,6 +1,7 @@
 # EXCELR-DS-ASSIGNMENTS
 
 
+### [Simple linear regression Deliverytime_Data](https://github.com/VIVEKKADAN/Assignment-simple-linear-regression-Delivery-Tiime_Data.git)
 ### [Simple linear regression Salary prediction](https://github.com/VIVEKKADAN/Assignment-Simple-linear-regression-Saray-prediction.git)
 ### [CLUSTER Airlines Data](https://github.com/VIVEKKADAN/Cluster-Airlines-Data.git)
 ### [CLUSTER Crime_Data](https://github.com/VIVEKKADAN/Cluster-Crime-Data.git)
