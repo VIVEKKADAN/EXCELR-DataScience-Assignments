@@ -19,3 +19,5 @@
 ### [Forcasting Airlines_Data](https://github.com/VIVEKKADAN/Assignment-Forcasting-Airlines_Data.git)
 ### [Textmining Elon Musk Tweets](https://github.com/VIVEKKADAN/Assignment-Text-mining-EleonMust-Tweets.git)
 ### [Textmining Product review analysis](https://github.com/VIVEKKADAN/Assignment-Textmining-Product-review-analysis.git)
+###  [Neural Networks Gasturbine_Data](https://github.com/VIVEKKADAN/Assignment-NeuralNetworks-Gasturbine_Data.git)
+###  [Neural Networks ForestFires_Data](https://github.com/VIVEKKADAN/Assignment-Neural-Networks-Forest-Fires-Data.git)
