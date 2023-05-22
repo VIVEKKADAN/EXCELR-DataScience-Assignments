@@ -13,3 +13,4 @@
 ### [RandomForest Fraudcheck_Data](https://github.com/VIVEKKADAN/Assignment-Random-forest-Fraudcheck-data.git)
 ### [RandomForest Company_Data](https://github.com/VIVEKKADAN/Assignment-Randomforest-Company_Data.git)
 ### [Naive Bayes Salary_Data](https://github.com/VIVEKKADAN/Assignment-Naive-Bayes-Salary_Data.git)
+### [SVM Salary_Data](https://github.com/VIVEKKADAN/Assignment-SVM-Salary_Data.git)
