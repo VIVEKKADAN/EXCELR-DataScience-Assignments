@@ -6,3 +6,4 @@
 ### [Decision Tree Company_Data](https://github.com/VIVEKKADAN/Decision-Tree-Company-Data.git)
 ### [Decision Fraudcheck Data](https://github.com/VIVEKKADAN/Decision-Tree-Fraud-Check-Data.git)
 ### [Association rule Book Data](https://github.com/VIVEKKADAN/Association-assignment-Bookdata.git)
+### [Association rule Movie Data](https://github.com/VIVEKKADAN/Association-assignment-Movie_Data.git)
