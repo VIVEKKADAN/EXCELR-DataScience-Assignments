@@ -12,3 +12,4 @@
 ### [KNN Glass DATA](https://github.com/VIVEKKADAN/KNN-Glass-Data.git)
 ### [RandomForest Fraudcheck_Data](https://github.com/VIVEKKADAN/Assignment-Random-forest-Fraudcheck-data.git)
 ### [RandomForest Company_Data](https://github.com/VIVEKKADAN/Assignment-Randomforest-Company_Data.git)
+### [Naive Bayes Salary_Data](https://github.com/VIVEKKADAN/Assignment-Naive-Bayes-Salary_Data.git)
