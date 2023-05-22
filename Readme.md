@@ -2,5 +2,5 @@
 
 Excelr DS Assignmnets
 
-### [CLUSTER Airlines Data]((Cluster/airlinesdata.ipynb))
+### [CLUSTER Airlines Data]((Cluster/AirlinesData))
 ### [CLUSTER Crime_data]((crime_data - Copy.ipynb))
