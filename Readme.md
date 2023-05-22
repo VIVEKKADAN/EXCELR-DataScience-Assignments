@@ -1,6 +1,8 @@
 # EXCELR-DS-ASSIGNMENTS
 
-
+### [Basic statistics -1](https://github.com/VIVEKKADAN/Assignment-Basic-statistics-1.git)
+### [Basic statistics - 2](https://github.com/VIVEKKADAN/Assignment-Basic-statistics-2.git)
+### [Hypothesis](https://github.com/VIVEKKADAN/Assignment-Hypothesis.git)
 ### [Simple linear regression Deliverytime_Data](https://github.com/VIVEKKADAN/Assignment-simple-linear-regression-Delivery-Tiime_Data.git)
 ### [Simple linear regression Salary prediction](https://github.com/VIVEKKADAN/Assignment-Simple-linear-regression-Saray-prediction.git)
 ### [Multi linear regression 50_Startup_Data](https://github.com/VIVEKKADAN/Assignment-Multilinear-Regression-Startup_Data.git)
