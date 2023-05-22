@@ -3,6 +3,9 @@
 
 ### [Simple linear regression Deliverytime_Data](https://github.com/VIVEKKADAN/Assignment-simple-linear-regression-Delivery-Tiime_Data.git)
 ### [Simple linear regression Salary prediction](https://github.com/VIVEKKADAN/Assignment-Simple-linear-regression-Saray-prediction.git)
+### [Multi linear regression 50_Startup_Data](https://github.com/VIVEKKADAN/Assignment-Multilinear-Regression-Startup_Data.git)
+### [Multi linear regression TOYOTA COROLLA_Data](https://github.com/VIVEKKADAN/Multillinear-regression-Toyota-corrolla-Data.git)
+### [Logistic Regression Bank Data](https://github.com/VIVEKKADAN/Logistic-Regression-Bank_Data.git)
 ### [CLUSTER Airlines Data](https://github.com/VIVEKKADAN/Cluster-Airlines-Data.git)
 ### [CLUSTER Crime_Data](https://github.com/VIVEKKADAN/Cluster-Crime-Data.git)
 ### [Decision Tree Company_Data](https://github.com/VIVEKKADAN/Decision-Tree-Company-Data.git)
